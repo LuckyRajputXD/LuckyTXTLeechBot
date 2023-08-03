@@ -1,4 +1,4 @@
-# LUCKY BOT
+# TXT LEECH BOT
 
 ## Deploy To Heroku
 
