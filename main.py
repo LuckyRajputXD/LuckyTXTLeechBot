@@ -58,9 +58,9 @@ bot = Client("bot",
              bot_token=os.environ.get("BOT_TOKEN"),
              api_id=int(os.environ.get("API_ID")),
              api_hash=os.environ.get("API_HASH"))
-auth_users = [1565652957,1671836568,6059771769]
+auth_users = [1993514215,5593976733,5735651588]
 sudo_users = auth_users
-sudo_groups = [-100928165594]
+sudo_groups = [-1001650591443]
 
 shell_usage = f"**USAGE:** Executes terminal commands directly via bot.\n\n<pre>/shell pip install requests</pre>"
 def one(user_id):
@@ -108,7 +108,7 @@ keyboard = InlineKeyboardMarkup(
         [
             InlineKeyboardButton(
                 text="Devloper",
-                url="https://t.me/Adrenalinators",
+                url="https://t.me/LuckyRajputOfficial",
             ),
             InlineKeyboardButton(
                 text="Repo",
@@ -148,7 +148,7 @@ async def account_login(bot: Client, m: Message):
         return
     else:
         editable = await m.reply_text(
-            "Hello Bruh **I am Text Downloader Bot**. I can download videos from **text** file one by one.**\n\nDeveloper** : Tumhara BHAI**\nLanguage** : Python**\nFramework** : Pyrogram\n\nSend **TXT** File FORMAT {FileName : FileLink}")
+            "Hello Bruh **I am Text Downloader Bot**. I can download videos from **text** file one by one.**\n\nDeveloper** : Lucky Rajput*\nLanguage** : Python**\nFramework** : Pyrogram\n\nSend **TXT** File FORMAT {FileName : FileLink}")
     input: Message = await bot.listen(editable.chat.id)
     x = await input.download()
     await input.delete(True)
@@ -475,7 +475,7 @@ async def account_login(bot: Client, m: Message):
         return
     else:
         editable = await m.reply_text(
-            "Hello Bruh **I am Anurag Downloader Bot**. I can download videos from **text** file one by one.**\n\nLanguage** : Python**\nFramework** : Pyrogram\n\nSend **TXT** File {Name : Link}")
+            "Hello Bruh **I An Anurag Downloader Bot**. I can download videos from **text** file one by one.**\n\nLanguage** : Python**\nFramework** : Pyrogram\n\nSend **TXT** File {Name : Link}")
     input: Message = await bot.listen(editable.chat.id)
     x = await input.download()
     await input.delete(True)
@@ -558,7 +558,7 @@ async def account_login(bot: Client, m: Message):
         return
     else:
         editable = await m.reply_text(
-            "Hello Bruh **I am vision ias Downloader Bot**. I can download videos from **text** file one by one.**\n\nLanguage** : Python**\nFramework** : Pyrogram\n\nSend **TXT** File {Name : Link}"
+            "Hello Bruh **I am Vision IAS Downloader Bot**. I can download videos from **text** file one by one.**\n\nLanguage** : Python**\nFramework** : Pyrogram\n\nSend **TXT** File {Name : Link}"
        ,reply_markup=keyboard)
     input: Message = await bot.listen(editable.chat.id)
     x = await input.download()
