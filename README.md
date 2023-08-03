@@ -1,8 +1,8 @@
-# ADR BOT
+# LUCKY BOT
 
 ## Deploy To Heroku
 
-<a href="https://heroku.com/deploy?template=https://github.com/Anurag320/TXTLeechBot">
+<a href="https://heroku.com/deploy?template=https://github.com/LuckyRajputXD/LuckyTXTLeechBot">
      <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
   </a>
 
@@ -10,8 +10,8 @@
 
 If you have any questions or concerns, feel free to contact me via Telegram:
 
-[![Telegram Channel](https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram)](https://telegram.dog/Adrenalinators)
-[![Telegram Group](https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram)](https://telegram.dog/Adrenalinators)
+[![Telegram Channel](https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram)](https://telegram.dog/TeamPWians)
+[![Telegram Group](https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram)](https://telegram.dog/LakshyaFutureIITians)
 
 ### .env
 ```sh
