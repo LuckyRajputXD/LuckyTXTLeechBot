@@ -112,7 +112,7 @@ keyboard = InlineKeyboardMarkup(
             ),
             InlineKeyboardButton(
                 text="Repo",
-                url="https://github.com/",
+                url="https://github.com/LuckyRajputXD/LuckyTXTLeechBot",
             ),
         ],
     ]
